@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T12:50:26.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3pKAq9Och9RgBoNSMhgz" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T16:39:37.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fpeTS4F_kDHZ1ds0KEhp" version="24.0.7" type="github">
   <diagram name="Página-1" id="w8Zf88Q8XRnLcEcReeCe">
     <mxGraphModel dx="1194" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="V-ymwT6ZLB0-DpaarCTY-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Senior&lt;/h1&gt;&lt;p&gt;Conexão direta com o SQL Server da Optidata&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="790" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V-ymwT6ZLB0-DpaarCTY-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ocean&lt;/h1&gt;&lt;p&gt;- Utiliza marcações da R034FUN numemp, tipcol, numcad e sitafa para validar status dos colaboradores.&lt;/p&gt;&lt;p&gt;- &lt;font color=&quot;#ff1100&quot;&gt;Contabilização&lt;/font&gt;?&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="V-ymwT6ZLB0-DpaarCTY-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ocean&lt;/h1&gt;&lt;p&gt;- Utiliza marcações da R034FUN numemp, tipcol, numcad e sitafa para validar status dos colaboradores.&lt;/p&gt;&lt;p&gt;- &lt;font color=&quot;#ff1100&quot;&gt;Contabilizaçã&lt;/font&gt;&lt;font color=&quot;#ff0b03&quot;&gt;o?&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="500" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V-ymwT6ZLB0-DpaarCTY-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Vitahub&lt;/h1&gt;&lt;p&gt;- Grava as batidas de ponto nas tabelas sbr_cartao_ponto_* para enviar ao Senior nas tabelas r070acc e r070jus.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
